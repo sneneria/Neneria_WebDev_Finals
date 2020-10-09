@@ -7,6 +7,7 @@ For this activity, I learned to use the Bootstrap CDN. The lists of components I
     *  I added my image. 
 *  Container 
     *  I added more values and attributes so that It'll make it more fuller.
+    *  I added more images. 
 *  Tab-content 
     *  I added the icons like similar to instagram. 
     *  I just remove the right icon that you gave. 
