@@ -10,9 +10,9 @@
 
 • Link to your Sitemap, Wireframe, and Video Pitch
 
-    * https://classroom.google.com/u/1/c/MTIxODUxMTA4MjYx/a/MTI2NzI2ODY0MTMx/details
-    * https://classroom.google.com/u/1/c/MTIxODUxMTA4MjYx/a/MTI2NzMwMzU2ODk3/details
-    * https://drive.google.com/file/d/1hbFe3nT2rau0Hnq1xf5y3l31_0i8ZmEr/view?usp=sharing
+     https://classroom.google.com/u/1/c/MTIxODUxMTA4MjYx/a/MTI2NzI2ODY0MTMx/details
+    https://classroom.google.com/u/1/c/MTIxODUxMTA4MjYx/a/MTI2NzMwMzU2ODk3/details
+    https://drive.google.com/file/d/1hbFe3nT2rau0Hnq1xf5y3l31_0i8ZmEr/view?usp=sharing
     
 • What are the web tools you used to create your web app?
 
