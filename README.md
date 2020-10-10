@@ -20,7 +20,7 @@
     
 • Discuss what you learned in this (a) COVID-19 web app project and (b) Web Development 1 Course/Subject. 
 
-    - (A) For the making web app, I learned how to create bye helping this course and a little details are crucial especialy the elements because even a typo.
+    - (A) For the creating web app, I learned how to create by helping this course and a little details are crucial especialy the elements because even a typo.
     - (B) I learned alot because, before I create the Web dev before, in fact some of the lessons was taking not easy because of the needed of the time management, and mostly internet but somehow it was good and just some similiar into programming. 
    
  • What is something you need to improve on Web Development?
